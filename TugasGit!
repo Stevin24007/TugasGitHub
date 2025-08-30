@@ -1,0 +1,6 @@
+#include <studio.h>
+int main()
+{
+    printf("Nama:Stevin Grace\n")
+        printf("Bahasa C\n")
+}
